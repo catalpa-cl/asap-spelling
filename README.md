@@ -1,6 +1,6 @@
 # asap-spelling
 
-This repository will soon contains gold-standard spelling correction annotation for the test data section of the asap short answer scoring corpus.
+This repository contains gold-standard spelling correction annotation for the test data section of the asap short answer scoring corpus.
 
 Please refer to the following paper when using the data.
 
